@@ -1,6 +1,10 @@
 # pizero-usb-hid-keyboard
 
-# Procedure I used
+## Requirements
+
+* git
+
+## Procedure I used
 
 Basically, a ripoff of this: https://www.aidanwoods.com/blog/building-a-wifi-enabled-usb-rubber-ducky/
 
